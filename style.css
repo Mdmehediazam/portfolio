@@ -1,0 +1,9 @@
+.demo{background-image:url("background image2.jpg");
+height:500px;
+background-size: 1250px 550px;
+background-repeat:no-repeat;
+}
+h2{
+text-align:center;
+color:white;
+}
